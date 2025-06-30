@@ -1,5 +1,6 @@
 A,B,C,D,answer
 rococo,ornamental,pointillism,realism;floral;dots;distortion,dots
+delaware,omaha,hawaii,houston;salt lake city;reno;sacramento,sacramento
 freezing,cold,combustion,heat;water;freon;helium,heat
 glee,solemnity,elegy,pathos;limerick;tragedy;dirge,limerick
 hunter,prey,host,emcee;subordinate;stranger;guest,guest
@@ -11,18 +12,24 @@ echinoderms,monotremes,ocean,amazon;china;australia;arctic,australia
 periscope,view,cardiograph,resuscitate;transport;estimate;record,record
 carpenter,sculptor,hammer,drill;chisel;roller;wrench,chisel
 cubism,fragmented,dada,photographic;classical;nonsensical;monochromatic,nonsensical
+4,25,9,36;32;24;15,36
 predator,compassion,polymath,numbers;ignorance;humor;shapes,ignorance
+handel,messiah,puccini,swan lake;bolero;rodeo;madame butterfly,madame butterfly
 mass,sun,gravity,radium;energy;tachyons;oort cloud,energy
 seraphim,seraph,errata,erratum;erratic;serai;erranty,erratum
 golfer,club,tailor,rasp;ligature;shears;trocar,shears
+moscow,tretyakov,berlin,rijksmuseum;whitney;hagia sophia;pergamon,pergamon
 gravity,mirror,attracts,rotates;reflects;ratifies;recycles,reflects
 audacious,propriety,obsolete,novelty;detail;history;relevance,relevance
 inuit,igloos,hopi,pueblos;wigwams;hogans;chickees,pueblos
 ellipsis,genus,ellipses,general;genius;genera;generic,genera
+churchill downs,yale university,kentucky,pennsylvania;new york;connecticut;old faithful,connecticut
 prado,spain,hermitage,russia;germany;italy;england,russia
 idea,pigeonhole,actor,audition;typecast;train;fire,typecast
+deontology,ethics,etymology,insects;the cell and its functions;animal behavior;the origins of words,the origins of words
 medicine,geometry,hippocrates,copernicus;euclid;ptolemy;newton,euclid
 loquacious,imperious,talkative,flashy;daring;bossy;cautious,bossy
+7/9,1/3,14,2;3;6;12,6
 wallace,nixon/humphrey,roosevelt,obama/mccain;taft/wilson;eisenhower/stevenson;truman/dewey,taft/wilson
 howl,on the road,ginsberg,kerouac;dreiser;faulkner;hughes,kerouac
 marsupial,wombat,monotreme,bat;porpoise;lemur;platypus,platypus
@@ -92,3 +99,4 @@ eisenhower,manning,general,athlete;philosopher;tesla;entrepreneur,athlete
 colonial,grunge,homes,offices;jazz;temples;rock,rock
 dial,crystal,lens,saddle;bridge;bowl;spindle,bridge
 gobi,atlantic,sahara,indian;ontario;asia;victoria,indian
+
